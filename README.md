@@ -2,3 +2,5 @@ The final goal is to reduce energy consumption of a house, achieving off-grid wh
 Calculated economization goes from 80% to 90%, simulated via https://pedroportelareis.blogspot.com/2024/06/paineis-solares-fotovoltaicos-parte-3.html.
 
 - mermaid-diagram-v10-2025-05-30-220203.png - draft plan for the connection between the hybrid inverter and the car.
+
+![draft plan](mermaid-diagram-v10-2025-05-30-220203.png)
