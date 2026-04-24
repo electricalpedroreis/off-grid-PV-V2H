@@ -5,4 +5,4 @@ Calculated economization goes from 80% to 90%, simulated via https://pedroportel
 - mermaid-diagram-v10-2025-05-30-220203.png - draft plan for the connection between the hybrid inverter and the car.
 
 ![global plan](v4%20-%20EV%20charge%20&%20V2H%20simplest.drawio.png)
-![draft plan](mermaid-diagram-v10-2025-05-30-220203.png)
+![draft plan](mermaid-diagram-v11-2026-04-24-123703.png)
