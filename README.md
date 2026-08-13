@@ -2,7 +2,7 @@ The final goal is to reduce energy consumption of a house, achieving off-grid wh
 Calculated economization goes from 80% to 90%, simulated via https://pedroportelareis.blogspot.com/2024/06/paineis-solares-fotovoltaicos-parte-3.html.
 
 - v4 - EV charge & V2H simplest.drawio.png - global plan
-- mermaid-diagram-v10-2025-05-30-220203.png - draft plan for the connection between the hybrid inverter and the car.
+- mermaid-diagram-v10-2025-05-30-220203.png - draft plan (currently is just pseudo-electronics) for the connection between the hybrid inverter and the car. E.g. circuits to read high voltage need to be added.
 
 ![global plan](v4%20-%20EV%20charge%20&%20V2H%20simplest.drawio.png)
 ![draft plan](mermaid-diagram-v11-2026-04-24-123703.png)
